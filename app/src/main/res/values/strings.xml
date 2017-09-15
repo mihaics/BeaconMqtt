@@ -67,5 +67,6 @@
     <string name="yes">Yes</string>
     <string name="no">No</string>
     <string name="logging_turned_off_message">Logging is turned off, go to settings to turn it on.</string>
+    <string name="mqtt_server_address">mqtt.tcmdsystems.eu</string>
 
 </resources>
